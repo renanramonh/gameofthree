@@ -25,3 +25,5 @@ jobs:
       run: cd server && chmod +x gradlew
     - name: Build server with Gradle
       run: cd server && sh ./gradlew build
+    - name: Build client with Gradle
+      run: cd client && sh ./gradlew build
