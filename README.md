@@ -1,4 +1,5 @@
-![example workflow](https://github.com/renanramonh/gameofthree/actions/workflows/docker-image.yml/badge.svg)
+![workflow](https://github.com/renanramonh/gameofthree/actions/workflows/gradle.yml/badge.svg)
+
 # Game of Three :video_game: :space_invader:
 This repository includes the source code for Game of Three client and server.
 
